@@ -283,7 +283,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   workshop,
   you will need access to the software described below.
-  In addition, you will need an up-to-date web browser. You should also download some files to follow the lesson: <http://swcarpentry.github.io/shell-novice/setup.html>.
+  In addition, you should download some files to follow the lesson: <a href="http://swcarpentry.github.io/shell-novice/setup.html">http://swcarpentry.github.io/shell-novice/setup.html</a>.
+  You will also need an up-to-date web browser. 
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
